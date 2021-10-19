@@ -23,6 +23,7 @@ acquisitionid
 acrapi
 ACSSMS
 actionplans
+activedirectory
 activityruns
 actualcost
 actuser
@@ -123,6 +124,7 @@ appinsights
 applynetworkconfigurationupdates
 appservice
 appsettings
+Appsource
 appteststorage
 appxmanifest
 Appxmanifest
@@ -146,6 +148,7 @@ asyncinfo
 asyncoperation
 atascada
 attestationcollateral
+attestationmechanism
 attributerule
 audiodata
 Auditd
@@ -313,6 +316,7 @@ cancelpipelinerun
 canonicalized
 Carbonite
 carretera
+catalogapi
 catenate
 catenated
 caverphone
@@ -421,6 +425,7 @@ Corda
 coreml
 Corent
 Cortana
+Cosell
 cosmosdb
 costcenter
 costinsights
@@ -680,6 +685,7 @@ exceptiontype
 exfiltrate
 Exfiltration
 experimentids
+expiresin
 Explainability
 explicitlist
 exportconfiguration
@@ -732,6 +738,7 @@ findsimilars
 findsquare
 firmwares
 Flexera
+Flowlet
 fluentd
 forceclosehandles
 forestsummary
@@ -810,6 +817,8 @@ Gloo
 gltf
 gluster
 glusterfs
+gmsa
+Gmsa
 GOARCH
 GPUMIG
 GPUP
@@ -850,6 +859,7 @@ Headnode
 healthbot
 healthcareapis
 healthstatus
+hecto
 Heatbeat
 heatmap
 HHMM
@@ -1032,6 +1042,9 @@ kubelet
 Kubelet
 kubenet
 kubernetes
+Kustomization
+kustomizations
+Kustomizations
 kusto
 kustooperations
 kvset
@@ -1142,6 +1155,7 @@ mapreduce
 mariadb
 Marketo
 marketplaceagreementsapi
+marketplacecatalog
 marketplaceordering
 maxclients
 maxcoordinates
@@ -1219,6 +1233,7 @@ MSAZRDE
 MSAZRUSGO
 MSCONCAT
 mscv
+msdb
 MSGETACLSTATUS
 MSGETFILESTATUS
 msix
@@ -1365,11 +1380,13 @@ Onboards
 ondemand
 ondemandgc
 onmachine
+omex
 onmicrosoft
 ONNX
 Onprem
 Onprem
 onpremises
+ONVIF
 oobe
 Oozie
 openapi
@@ -2014,6 +2031,7 @@ tasksuccess
 Taxii
 Tcpkeepalive
 Tebibytes
+tempdb
 templated
 templatelink
 templeton
@@ -2369,7 +2387,6 @@ noAddressPrefixes
 serviceTagChangeNumber
 Tebibytes
 privatelinkservicesforpowerbi
-Obuscated
 NodePool
 hnsonmigration
 aborthnsonmigration
@@ -2386,3 +2403,4 @@ pmem
 rawphysical
 rawvirtual
 sesparse
+schemagroups
